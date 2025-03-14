@@ -1,8 +1,11 @@
-Hi there, I'm Riyaj Chaulagain! 😎
+<h1 align="center"><b>Hi there, I'm Riyaj Chaulagain! 😎</b></h1>
+
 
 Coding | Problem-Solving | Innovation
 
-💡 About Me:
+<h3>
+   About Me:
+</h3>
 
 🚀 Currently optimizing ACTIV-ATE to the next level 🚀
 
