@@ -1,11 +1,17 @@
 Hi there, I'm Riyaj Chaulagain! 😎
+
 Coding | Problem-Solving | Innovation
 
 💡 About Me:
+
 🚀 Currently optimizing ACTIV-ATE to the next level 🚀
+
 🔥 Passionate about AI, Web Development, and Assistive Technology
+
 💻 Check out my portfolio: https://riyajchaulagain.com.np/
+
 💬 Open to tech discussions, collaborations, and solving problems—let’s connect!
+
 
 🌐 Connect with Me:
 
