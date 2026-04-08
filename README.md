@@ -86,16 +86,48 @@ I build full-stack systems that actually ship: AI-powered apps, real-time platfo
 
 ## GitHub Stats
 
+Stats & Activity
 <div align="center">
-
-![Riyaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyajclgn123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyajclgn123&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img
+    height="170em"
+    src="https://github-readme-stats-Carol42.vercel.app/api?username=niraj0010&count_private=true&show_icons=true&theme=transparent&bg_color=0,0f172a,020617&icon_color=14B8A6&text_color=E5E7EB&hide_border=true&hide_title=true"
+    alt="GitHub stats"
+  />
+  <img
+    height="170em"
+    src="https://streak-stats.demolab.com/?user=niraj0010&theme=transparent&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&hide_border=true"
+    alt="GitHub streak"
+  />
+</div>
+<br/>
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=niraj0010&theme=onedark&column=7&no-frame=true&margin-w=10&margin-h=10"
+    alt="GitHub trophies"
+  />
 </div>
 
----
-
-<div align="center">
-  <sub>Open to internships, collaborations, and anything interesting. Let's build something.</sub>
-</div>
-
+<table>
+  <tr>
+    <td align="left" width="20%">
+      <img
+        src="https://komarev.com/ghpvc/?username=niraj0010&label=Profile%20views&color=14B8A6&style=for-the-badge"
+        alt="Profile views"
+      />
+    </td>
+    <td align="center" width="60%">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=520&lines=Curiosity+drives+everything.;Build+things.+Break+them.+Learn.;Thanks+for+stopping+by."
+        alt="Footer typing"
+      />
+    </td>
+    <td align="right" width="20%">
+      <a href="#top">
+        <img
+          src="https://img.shields.io/badge/Back_to_Top-14B8A6?style=for-the-badge"
+          alt="Back to top"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
