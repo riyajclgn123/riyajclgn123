@@ -18,7 +18,8 @@ I'm a junior **Computer Science** student (Minor: Mathematics) at **Southeastern
 
 I build full-stack systems that actually ship: AI-powered apps, real-time platforms, IoT integrations, and cloud-native backends. I care about clean architecture, developer experience, and products that solve real problems.
 
-- Currently building an **AI Smart Stick** — assistive technology for visually impaired users (Raspberry Pi 4 + YOLOv5)
+- Interning as an **AI Engineer Intern** at AWC Inc., building AI-powered features and intelligent automation tools that integrate into production systems.
+- Built an **AI Smart Stick** — assistive technology for visually impaired users (Raspberry Pi 4 + YOLOv5)
 - Interned as an **Undergraduate Research Assistant** building LLM benchmarking systems and digital e-library platforms
 - Mentored **Team Agri-Tech** at the FountED Foundation's Uunchai 2025 program in Nepal
 - Teaching Assistant & Math Tutor for 30+ students in CS and Mathematics
