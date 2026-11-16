@@ -69,15 +69,15 @@ A price-intelligence platform that scrapes Amazon, Flipkart, Shein and eBay, **f
 <br/>`Next.js` `FastAPI` `PostgreSQL` `Redis` `Playwright` `scikit-learn`
 
 ### 👁️ [Brixel](https://github.com/riyajclgn123/Brixel) · *LionHacks 2026*
-A classroom assistant for visually impaired students, **built in six hours**. It captures the whiteboard, extracts the text, reads it aloud and converts it to **Grade 2 Braille** (.brf export for embossers) in **under 3 seconds**.
-<br/>`Jetson Nano` `Python` `OpenCV` `Gemini` `Google Cloud Vision` `liblouis` `Supabase` `React` `TypeScript`
+A classroom assistant for visually impaired students, **built in six hours**. A Jetson Nano photographs the whiteboard and extracts the text with OCR. A live dashboard then reads each capture aloud and exports it as Braille (.brf), plain text or print.
+<br/>`Jetson Nano` `Python` `OpenCV` `Google Cloud Vision` `Supabase Realtime` `React` `Web Speech API`
 
 ### 📊 [Louisiana EduPulse](https://github.com/riyajclgn123/Nexus_DevDays) · *Nexus Louisiana Dev Days 2025*
 A role-based decision dashboard for policymakers, funders and school operators. It combines Louisiana K-12 performance, Census and BLS workforce data behind **12+ FastAPI endpoints** and includes a Llama 3.3 70B assistant that cites its sources.
 <br/>`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Groq` `scikit-learn`
 
 ### 🎮 [Cargo Games](https://github.com/riyajclgn123/Multiplayer_Game_Project_CMPS401)
-A real-time multiplayer platform (UNO, Tic-Tac-Toe, Rock-Paper-Scissors) with matchmaking and live chat. It runs on an async, event-driven Rust backend with CI/CD.
+A real-time multiplayer platform (UNO, Tic-Tac-Toe, Rock-Paper-Scissors) with room-code matchmaking and live chat. An async Rust server holds every game's rules and pushes state to all players over WebSockets. Built by a team of three.
 <br/>`Rust` `Axum` `Tokio` `WebSockets` `React` `TypeScript`
 
 <details>
@@ -87,9 +87,9 @@ A real-time multiplayer platform (UNO, Tic-Tac-Toe, Rock-Paper-Scissors) with ma
 | Project | What it is | Stack |
 |---|---|---|
 | [Agri-Tech](https://github.com/riyajclgn123/Agri-Tech-mobile-app) | IoT device and mobile app monitoring soil, pH, humidity and fire risk, with an LLM chat assistant | React Native, Flask, Docker, IoT |
-| [AI Mock Interviewer](https://github.com/riyajclgn123/AI-Mock-Interviewer) | Generates interview questions from your résumé using fine-tuned Phi-2 and RAG | PyTorch, Phi-2, RAG, Flask, React |
-| [LLM Document Assistant](https://github.com/riyajclgn123/LLM-Powered-Document-Assistant) | Fully offline document summaries and Q&A with a fine-tuned LLM | Transformers, PyTorch, FastAPI |
-| [ACTIV-ATE](https://github.com/riyajclgn123/ACTIV-ATE-Project) | Fitness tracker for meals, workouts, BMI and weekly reports, built by a 4-person team | C# ASP.NET Core MVC, EF Core, React |
+| [AI Mock Interviewer](https://github.com/riyajclgn123/AI-Mock-Interviewer) | *(In progress)* Interview-practice app with résumé upload, practice and feedback pages. The LLM backend is being built. | React, TypeScript, Mantine |
+| [LLM Document Assistant](https://github.com/riyajclgn123/LLM-Powered-Document-Assistant) | *(In progress)* Document assistant. The FastAPI PDF-extraction service works, and the offline LLM layer is next. | FastAPI, pdfplumber, React, TypeScript |
+| [ACTIV-ATE](https://github.com/riyajclgn123/ACTIV-ATE-Project) | Fitness tracker for meals, workouts, BMI and weekly reports, built by a 4-person team | C# ASP.NET Core Web API, EF Core, React, TypeScript |
 | [Elibrary](https://github.com/riyajclgn123/Elibrary) | Teacher-to-student content platform with Google Sign-In and an admin dashboard | React, Firebase |
 | [Riyaj Bhada Pasal](https://riyajbhadapasal.com.np) | E-commerce store for my family's utensils business in Nepal, where I'm the solo developer | React, Vercel |
 | **RIFT** *(in progress)* | Real-time incident forecasting from city camera feeds with an LLM triage layer | Python, CV, Deep Learning, LLMs |
